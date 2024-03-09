@@ -5,11 +5,14 @@ return {
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
 
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
-  
+  -- theme
   { import = "astrocommunity.colorscheme.catppuccin" },
-  
+  -- languge
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.just" },
+  -- msic
+  { import = "astrocommunity.utility.noice-nvim" },
+  { import = "astrocommunity.completion.cmp-cmdline" },
 }
