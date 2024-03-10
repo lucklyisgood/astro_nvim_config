@@ -12,6 +12,8 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.just" },
+  -- motion
+  { import = "astrocommunity.motion.flash-nvim"},
   -- msic
   { import = "astrocommunity.utility.noice-nvim" },
   { import = "astrocommunity.completion.cmp-cmdline" },
