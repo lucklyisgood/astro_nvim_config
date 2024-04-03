@@ -14,6 +14,7 @@ return {
   { import = "astrocommunity.pack.just" },
   -- motion
   { import = "astrocommunity.motion.flash-nvim"},
+  { import = "astrocommunity.motion.marks-nvim"},
   -- msic
   { import = "astrocommunity.utility.noice-nvim" },
   { import = "astrocommunity.completion.cmp-cmdline" },
